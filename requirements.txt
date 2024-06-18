@@ -1,0 +1,5 @@
+Flask
+nltk
+textblob
+transformers
+torch
